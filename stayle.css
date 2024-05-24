@@ -1606,12 +1606,3 @@ right: 10;
    top: 100;
 background-color: rgba(252, 247, 247, 0);
   }
-@media screen and (max-width:550px) {
-
-
-   
-   section{
-        display: flex;
-        flex-direction: column;
-    }
-}
