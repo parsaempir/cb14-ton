@@ -1606,3 +1606,13 @@ right: 10;
    top: 100;
 background-color: rgba(252, 247, 247, 0);
   }
+@media screen and (max-width:550px) {
+
+
+    .section1 + .section2 + .section3 + .section4 + .section4 + .section5 + .section6 + .section7 + .section8 + .section9 + .section10 + .section11
+    
+    {
+        display: flex;
+        flex-direction: column;
+    }
+}
